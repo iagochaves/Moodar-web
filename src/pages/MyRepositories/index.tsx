@@ -63,7 +63,7 @@ const MyRepositories: React.FC = () => {
 
               <strong>Duração</strong>
               <p>{repo.length}</p>
-
+              <span>{repo.category}</span>
               <button
                 type="button"
                 onClick={() => handleDeleteButton(repo.title)}
