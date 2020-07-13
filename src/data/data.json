@@ -1,0 +1,37 @@
+
+{
+  "array": [
+    {
+      "description": "Teste1",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEP6M2GTGFHSw/company-logo_200_200/0?e=2159024400&v=beta&t=bSBYI4s2II2uhnoRVarmPS0q_oGd2l2gVSEr6Q8Oh80",
+      "category": "Webinars Online",
+      "length": "30min",
+      "maxPeople": 5,
+      "title": "First"
+    },
+    {
+      "description": "Teste2",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEP6M2GTGFHSw/company-logo_200_200/0?e=2159024400&v=beta&t=bSBYI4s2II2uhnoRVarmPS0q_oGd2l2gVSEr6Q8Oh80",
+      "category": "Palestras presenciais",
+      "length": "30min",
+      "maxPeople": 5,
+      "title": "Second"
+    },
+    {
+      "description": "Teste3",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEP6M2GTGFHSw/company-logo_200_200/0?e=2159024400&v=beta&t=bSBYI4s2II2uhnoRVarmPS0q_oGd2l2gVSEr6Q8Oh80",
+      "category": "Treinamentos",
+      "length": "30min",
+      "maxPeople": 5,
+      "title": "Third"
+    },
+    {
+      "description": "Teste4",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEP6M2GTGFHSw/company-logo_200_200/0?e=2159024400&v=beta&t=bSBYI4s2II2uhnoRVarmPS0q_oGd2l2gVSEr6Q8Oh80",
+      "category": "Webinars Online",
+      "length": "30min",
+      "maxPeople": 5,
+      "title": "Fourth"
+    }
+  ]
+}
